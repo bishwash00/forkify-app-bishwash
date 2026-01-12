@@ -6,7 +6,7 @@ import recipeView from './views/recipeView.js';
 import addRecipeView from './views/addRecipeView.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
-import bookmarksView from './views/bookmarksView.js';
+import bookmarksView from './views/booksmarksView.js';
 import paginationView from './views/paginationView.js';
 
 // https://forkify-api.herokuapp.com/v2
