@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg';
+const icons = '/icons.svg';
 import fracty from 'fracty';
 import View from './View.js';
 
