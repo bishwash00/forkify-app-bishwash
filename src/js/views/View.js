@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg';
+const icons = '/icons.svg';
 
 export default class View {
   _data;
